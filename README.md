@@ -6,7 +6,7 @@ Growing up, Pacman was one game I found myself countlessly playing across differ
 
 Why C++?
 
-I decided to program this project using C++ as it provided benefits compared to other languages. For starters, I felt its standard template library (STL) would give me an edge in designing and programming the gameplay features, as compared to other languages. So did the fact that it is an object-oriented language, meaning I could utilize aspects such as inheritance and polymorphism, which I could not do with a language like C.
+I decided to program this project using C++ as it provided benefits compared to other languages. 
 
 Project Description:
 
